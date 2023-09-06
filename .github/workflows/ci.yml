@@ -10,7 +10,7 @@ jobs:
 
       - name: Setup Node
         uses: actions/setup-node@v3
-        witch:
+        with:
           node-version: 18.x
           cache: 'npm'
 
@@ -21,7 +21,7 @@ jobs:
         run: npm run lint
 
       - name: Testing
-        run: npm run test
+        run: npm run test:ci
 
       - name: Build
         run: npm run build

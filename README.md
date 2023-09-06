@@ -1,7 +1,6 @@
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
-
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg)
+This is a [Next.js](https://nextjs.org/) boilerplate built with one of the projects from [React Avançado](https://reactavancado.com.br/).
+![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg) 
+It can be used to kickstart a Next.js project with some additional configurations.
 
 ## What is inside?
 

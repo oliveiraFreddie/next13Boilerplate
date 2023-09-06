@@ -1,3 +1,5 @@
+## 🚀 Next 13 Boilerplate
+
 This is a [Next.js](https://nextjs.org/) boilerplate built as one of the projects from the course [React Avançado](https://reactavancado.com.br/). 
 ![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg).
 
